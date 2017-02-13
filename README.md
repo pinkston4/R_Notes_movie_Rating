@@ -7,7 +7,7 @@ Notes on 'grammar of graphics' and layers demonstrated through movie rating data
 - Aesthetics
 - Geometries
 - Stats
-- Facts 
+- Facets 
 - Coordinates
 - Theme
 
